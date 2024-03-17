@@ -5,9 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-/.yarn/
-/.yarn/unplugged
-yarn.lock
+/.yarn
+/.yarn.
+.yarn.
 
 
 # testing
